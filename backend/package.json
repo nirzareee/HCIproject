@@ -1,0 +1,30 @@
+{
+  "name": "music-discovery-backend",
+  "version": "1.0.0",
+  "description": "Backend for music discovery HCI study",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "music",
+    "spotify",
+    "hci"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.5.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "groq-sdk": "^0.37.0",
+    "natural": "^8.1.0",
+    "simple-statistics": "^7.8.8",
+    "sqlite3": "^5.1.6"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}

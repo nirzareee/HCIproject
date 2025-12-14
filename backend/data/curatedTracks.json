@@ -1,0 +1,175 @@
+{
+  "artists": {
+    "Taylor Swift": {
+      "happy": [
+        {"id": "1BxfuPKGuaTgP7aM0Bbdwr", "name": "Cruel Summer", "popularity": 100},
+        {"id": "0pqnGHJpmpxLKifKRmU6WP", "name": "Shake It Off", "popularity": 95},
+        {"id": "7qEHsqek33rTcFNT9PFqLf", "name": "Love Story", "popularity": 94},
+        {"id": "1vrd6UOGamcKNGnSHJQlSt", "name": "ME! (feat. Brendon Urie)", "popularity": 90},
+        {"id": "0VjIjW4GlUZAMYd2vXMi3b", "name": "Blank Space", "popularity": 93}
+      ],
+      "sad": [
+        {"id": "5VnDkUNkedByDF4xXx3XvV", "name": "Anti-Hero", "popularity": 98},
+        {"id": "3RvUDqDqCSLpPhWWBH7WJx", "name": "All Too Well (10 Minute Version)", "popularity": 92},
+        {"id": "0cRttV0aHLtByuPTfRhK2L", "name": "champagne problems", "popularity": 88}
+      ],
+      "all": [
+        {"id": "1BxfuPKGuaTgP7aM0Bbdwr", "name": "Cruel Summer", "popularity": 100},
+        {"id": "5VnDkUNkedByDF4xXx3XvV", "name": "Anti-Hero", "popularity": 98},
+        {"id": "0pqnGHJpmpxLKifKRmU6WP", "name": "Shake It Off", "popularity": 95}
+      ]
+    },
+    "Drake": {
+      "workout": [
+        {"id": "3DK6m7It6Pw857FcQftMds", "name": "God's Plan", "popularity": 95},
+        {"id": "6DCZcSspjsKoFjzjrWoCdn", "name": "One Dance", "popularity": 93},
+        {"id": "2G7V7zsVDxg1yRsu7Ew9RJ", "name": "In My Feelings", "popularity": 92}
+      ],
+      "happy": [
+        {"id": "3DK6m7It6Pw857FcQftMds", "name": "God's Plan", "popularity": 95},
+        {"id": "6DCZcSspjsKoFjzjrWoCdn", "name": "One Dance", "popularity": 93}
+      ],
+      "all": [
+        {"id": "3DK6m7It6Pw857FcQftMds", "name": "God's Plan", "popularity": 95},
+        {"id": "6DCZcSspjsKoFjzjrWoCdn", "name": "One Dance", "popularity": 93},
+        {"id": "2G7V7zsVDxg1yRsu7Ew9RJ", "name": "In My Feelings", "popularity": 92}
+      ]
+    },
+    "Billie Eilish": {
+      "sad": [
+        {"id": "7lPN2DXiMsVn7XUKtOW1CS", "name": "when the party's over", "popularity": 92},
+        {"id": "5GUYJTQap5F3RDQiCOJhrS", "name": "lovely (with Khalid)", "popularity": 91},
+        {"id": "2Fxmhks0bxGSBdJ92vM42m", "name": "bad guy", "popularity": 96}
+      ],
+      "happy": [
+        {"id": "2Fxmhks0bxGSBdJ92vM42m", "name": "bad guy", "popularity": 96}
+      ],
+      "all": [
+        {"id": "2Fxmhks0bxGSBdJ92vM42m", "name": "bad guy", "popularity": 96},
+        {"id": "7lPN2DXiMsVn7XUKtOW1CS", "name": "when the party's over", "popularity": 92}
+      ]
+    },
+    "Olivia Rodrigo": {
+      "sad": [
+        {"id": "1r9xUipOqoNwggBpENDsvJ", "name": "drivers license", "popularity": 94},
+        {"id": "5CZ40GBx1sQ9agT82CLQCT", "name": "traitor", "popularity": 87},
+        {"id": "3OHfY25tqY28d16oZczHc8", "name": "happier", "popularity": 85}
+      ],
+      "happy": [
+        {"id": "7ytR5pFWmSjzHJIeQkgog4", "name": "good 4 u", "popularity": 93},
+        {"id": "3qjZ0BwYt5JaE4zWOXNxwe", "name": "deja vu", "popularity": 89}
+      ],
+      "all": [
+        {"id": "1r9xUipOqoNwggBpENDsvJ", "name": "drivers license", "popularity": 94},
+        {"id": "7ytR5pFWmSjzHJIeQkgog4", "name": "good 4 u", "popularity": 93}
+      ]
+    },
+    "The Weeknd": {
+      "workout": [
+        {"id": "0VjIjW4GlUZAMYd2vXMi3b", "name": "Blinding Lights", "popularity": 98},
+        {"id": "2LBqCSwhJGcFQeTHMVGwy3", "name": "Starboy", "popularity": 94},
+        {"id": "5gDWsRxpJ2lZAffh5p7K0w", "name": "Save Your Tears", "popularity": 93}
+      ],
+      "sad": [
+        {"id": "3ee8Jmje8o58CHK66QrVC2", "name": "Call Out My Name", "popularity": 90}
+      ],
+      "all": [
+        {"id": "0VjIjW4GlUZAMYd2vXMi3b", "name": "Blinding Lights", "popularity": 98},
+        {"id": "5gDWsRxpJ2lZAffh5p7K0w", "name": "Save Your Tears", "popularity": 93}
+      ]
+    },
+    "Ariana Grande": {
+      "happy": [
+        {"id": "6ocbgoVGwYJhOv1GgI9NsF", "name": "7 rings", "popularity": 95},
+        {"id": "3nqQXoyQOWXiESFLlDF1hG", "name": "thank u, next", "popularity": 93},
+        {"id": "5hM5arv9KDbCHS0k81n3Yt", "name": "positions", "popularity": 88}
+      ],
+      "sad": [
+        {"id": "7hR22TOX3RorxJPcsz5Wbo", "name": "ghostin", "popularity": 82}
+      ],
+      "all": [
+        {"id": "6ocbgoVGwYJhOv1GgI9NsF", "name": "7 rings", "popularity": 95},
+        {"id": "3nqQXoyQOWXiESFLlDF1hG", "name": "thank u, next", "popularity": 93}
+      ]
+    },
+    "Ed Sheeran": {
+      "happy": [
+        {"id": "0tgVpDi06FyKpA1z0VMD4v", "name": "Shape of You", "popularity": 95},
+        {"id": "3JvrhDOgAt6p7K8mDyZwRd", "name": "Perfect", "popularity": 92},
+        {"id": "7qiZfU4dY1lWllzX7mPBI", "name": "Thinking Out Loud", "popularity": 91}
+      ],
+      "sad": [
+        {"id": "2ekn2ttSfGqwhhate0LSR0", "name": "Photograph", "popularity": 88}
+      ],
+      "all": [
+        {"id": "0tgVpDi06FyKpA1z0VMD4v", "name": "Shape of You", "popularity": 95},
+        {"id": "3JvrhDOgAt6p7K8mDyZwRd", "name": "Perfect", "popularity": 92}
+      ]
+    },
+    "Dua Lipa": {
+      "party": [
+        {"id": "3PfIrDoz19wz7qK7tYeu62", "name": "Levitating", "popularity": 95},
+        {"id": "6WrI0LAC5M1Rw2MnX2ZvEg", "name": "Don't Start Now", "popularity": 93},
+        {"id": "5Lc8JqLV2JRxvAEwM1Eqbf", "name": "Physical", "popularity": 87}
+      ],
+      "workout": [
+        {"id": "3PfIrDoz19wz7qK7tYeu62", "name": "Levitating", "popularity": 95},
+        {"id": "6WrI0LAC5M1Rw2MnX2ZvEg", "name": "Don't Start Now", "popularity": 93}
+      ],
+      "all": [
+        {"id": "3PfIrDoz19wz7qK7tYeu62", "name": "Levitating", "popularity": 95},
+        {"id": "6WrI0LAC5M1Rw2MnX2ZvEg", "name": "Don't Start Now", "popularity": 93}
+      ]
+    },
+    "Post Malone": {
+      "happy": [
+        {"id": "7xQAfvXzm3AkraOtGPWIZg", "name": "Sunflower", "popularity": 94},
+        {"id": "21jGcNKet2qwijlDFuPiPb", "name": "Circles", "popularity": 92}
+      ],
+      "sad": [
+        {"id": "7ytR5pFWmSjzHJIeQkgog4", "name": "I Fall Apart", "popularity": 85}
+      ],
+      "all": [
+        {"id": "7xQAfvXzm3AkraOtGPWIZg", "name": "Sunflower", "popularity": 94},
+        {"id": "21jGcNKet2qwijlDFuPiPb", "name": "Circles", "popularity": 92}
+      ]
+    },
+    "Bruno Mars": {
+      "happy": [
+        {"id": "7xvuq0vRCmETnuOZDB8pzS", "name": "Uptown Funk", "popularity": 94},
+        {"id": "392p3shh71p5IgCnjGxR2K", "name": "That's What I Like", "popularity": 90},
+        {"id": "7BqBn9nzAq8spo5e7cZ0dJ", "name": "Just The Way You Are", "popularity": 89}
+      ],
+      "party": [
+        {"id": "7xvuq0vRCmETnuOZDB8pzS", "name": "Uptown Funk", "popularity": 94}
+      ],
+      "all": [
+        {"id": "7xvuq0vRCmETnuOZDB8pzS", "name": "Uptown Funk", "popularity": 94},
+        {"id": "392p3shh71p5IgCnjGxR2K", "name": "That's What I Like", "popularity": 90}
+      ]
+    }
+  },
+  "moods": {
+    "happy": [
+      {"id": "60nZcImufyMA1MKQY3dcCH", "name": "Happy", "artist": "Pharrell Williams", "popularity": 94},
+      {"id": "7xvuq0vRCmETnuOZDB8pzS", "name": "Uptown Funk", "artist": "Bruno Mars", "popularity": 94},
+      {"id": "0pqnGHJpmpxLKifKRmU6WP", "name": "Shake It Off", "artist": "Taylor Swift", "popularity": 95},
+      {"id": "6ocbgoVGwYJhOv1GgI9NsF", "name": "7 rings", "artist": "Ariana Grande", "popularity": 95}
+    ],
+    "sad": [
+      {"id": "1r9xUipOqoNwggBpENDsvJ", "name": "drivers license", "artist": "Olivia Rodrigo", "popularity": 94},
+      {"id": "3RvUDqDqCSLpPhWWBH7WJx", "name": "All Too Well", "artist": "Taylor Swift", "popularity": 92},
+      {"id": "7lPN2DXiMsVn7XUKtOW1CS", "name": "when the party's over", "artist": "Billie Eilish", "popularity": 92}
+    ],
+    "workout": [
+      {"id": "3DK6m7It6Pw857FcQftMds", "name": "God's Plan", "artist": "Drake", "popularity": 95},
+      {"id": "0VjIjW4GlUZAMYd2vXMi3b", "name": "Blinding Lights", "artist": "The Weeknd", "popularity": 98},
+      {"id": "6DCZcSspjsKoFjzjrWoCdn", "name": "One Dance", "artist": "Drake", "popularity": 93}
+    ],
+    "party": [
+      {"id": "3PfIrDoz19wz7qK7tYeu62", "name": "Levitating", "artist": "Dua Lipa", "popularity": 95},
+      {"id": "6WrI0LAC5M1Rw2MnX2ZvEg", "name": "Don't Start Now", "artist": "Dua Lipa", "popularity": 93},
+      {"id": "7xvuq0vRCmETnuOZDB8pzS", "name": "Uptown Funk", "artist": "Bruno Mars", "popularity": 94}
+    ]
+  }
+}
